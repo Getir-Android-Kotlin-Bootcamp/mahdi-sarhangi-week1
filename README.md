@@ -1,4 +1,4 @@
-## Getir Bootcamp with Patika Kotlin Homework 
+## Getir Bootcamp with Patika / Kotlin Homework Week I
 
 This repository contains the homework assignments and solutions for my participation in the Getir Bootcamp with Patika focused on Kotlin programming.
 
